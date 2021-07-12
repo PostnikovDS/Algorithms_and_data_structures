@@ -14,7 +14,6 @@ while True:
     except ValueError:
         print('Пожалуйста, введите трёхзначное ЧИСЛО')
 
-
 number_sum = 0
 for el in str(user_number):
     number_sum += int(el)
