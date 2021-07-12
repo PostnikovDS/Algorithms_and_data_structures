@@ -34,3 +34,4 @@ try:
           f'в английском алфавите: --> "{random.choice(alphabet_slice)}"')
 except IndexError:
     print('Нельзя нарушать порядок букв алфавита')
+
