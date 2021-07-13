@@ -23,4 +23,3 @@ number_multiply = 1
 for el in str(user_number):
     number_multiply *= int(el)
 print(f'Произведение цифр введённого числа равна: {number_multiply}')
-

@@ -15,4 +15,3 @@ k = (y1 - y2) / (x1 - x2)
 b = y2 - k * x2
 
 print(f'y = {round(k, 2)} * x + {round(b, 2)}')
-
